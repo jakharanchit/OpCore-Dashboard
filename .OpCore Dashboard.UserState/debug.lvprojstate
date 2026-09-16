@@ -1,0 +1,20 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="OpCore Foundation.lvlib:StationConfig Read.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+        <Smart>
+          <Probe signalUID="1543" menuID="-1" itemID="-1" path="C:\Program Files\National Instruments\LabVIEW 2026\vi.lib\_probes\default\PathProbe.vi"/>
+        </Smart>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
